@@ -29,7 +29,7 @@ export const items: LinkItem[] = [
   {
     type: "youtube",
     title: "Latest Youtube Video",
-    youtubeId: "g76tf8VqvQY",
+    youtubeId: "VMqxVRfsmqg?si=66XrWtjZ7Y7NkaQh",
   },
   {
     type: "category",
@@ -45,11 +45,22 @@ export const items: LinkItem[] = [
     title: "Coffee shop list in Thailand",
     url: "https://maps.app.goo.gl/geu3Qj3GU2fvkeBv8",
   },
+  { type: "category", title: "Projects" },
+  {
+    type: "link",
+    title: "Smart Cacao Farm",
+    url: "https://hatamori.co",
+  },
   { type: "category", title: "Resources" },
   {
     type: "link",
     title: "Buy me a coffee :)",
     url: "http://buymeacoffee.com/neonardo",
+  },
+  {
+    type: "link",
+    title: "Personal Blog",
+    url: "https://neo.btw.so/about",
   },
   // {
   //   type: "link",
